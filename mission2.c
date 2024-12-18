@@ -1,3 +1,4 @@
+// 伙伴系统算法（Buddy System）的代码实现
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
